@@ -1,0 +1,19 @@
+@import "./util";
+
+body,html {
+    background-color: var(--background-color);
+}
+
+:root{
+    --background-color : #f2f5f5;
+    --primary-color: #315582;
+    --font-color: #000000;
+    --white-color: #ffffff;
+    --transparent-color: transparent;
+}
+
+[data-theme="dark"] {
+    --primary-color: rgb(0, 137, 182);
+    --background-color: #18191A;
+    --font-color: #fff;
+}
