@@ -20,7 +20,7 @@ _To use this template_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AzerKhamassi/lazer-app.git
+   git clone https://github.com/AzerKhamassi/react-ts-vite-template.git
    ```
 2. Install NPM packages
    ```sh
